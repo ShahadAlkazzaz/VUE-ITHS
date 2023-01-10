@@ -2,7 +2,7 @@ Vue.createApp({
     data(){
         return {
             title: "Hej ALLA",
-            age : 20
+            age : 30
         }
     }
 }).mount("#app")
